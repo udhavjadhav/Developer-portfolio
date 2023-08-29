@@ -28,7 +28,6 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  // url: 'https://1hanzla100.github.io/',
   linkedin: 'https://www.linkedin.com/in/udhavjadhav/',
   github: 'https://github.com/udhavjadhav',
   instagram: 'https://www.instagram.com/theudhavjadhav',
@@ -214,7 +213,7 @@ export const experience: ExperienceType[] = [
 
   export const projects: ProjectType[] = [
     {
-      name: 'developer-portfolio',
+      name: 'Developer Portfolio',
       desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
       github: 'https://github.com/udhavjadhav/developer-portfolio',
       link: 'https://developer-portfolio-1hanzla100.vercel.app/',
@@ -247,7 +246,7 @@ export const seoData: SEODataType = {
   description: 'A passionate Front-End Developer.',
   author: 'Udhav Jadhav',
   image: 'https://avatars.githubusercontent.com/u/72942660?v=4',
-  // url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  url: 'https://developer-portfolio-mtc.vercel.app',
   keywords: [
     'Udhav',
     'Udhav Jadhav',
