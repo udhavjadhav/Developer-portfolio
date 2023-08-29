@@ -13,10 +13,10 @@ import {
 
 export const greetings: GreetingsType = {
   name: 'Udhav Jadhav',
-  title: "Hi all, I'm Udhav Jadhav",
+  title: "Hi, I'm Udhav Jadhav",
   description:
     // "I'm passionate Frontend developer having an experience of web applications with JavaScript, React.js, Next.js, Redux and Web development like HTML5 and CSS3.Frameworks and Libraries like Bootstrap,Material UI, Semantic UI & Styled Components etc.",
-    'Highly skilled and experienced React is developer with expertise in building dynamic and responsive web applications. Strong proficiency in Reactjs, Redux, JavaScript, HTML, CSS, Material UI, Styled Components, Bootstrap, Git and Github. Passionate about delivering high-quality code and creating user-friendly interfaces. Seeking challenging opportunities to utilize my technical skills and contribute to the success of innovative projects.',
+    'Highly skilled and experienced React is developer with expertise in building dynamic and responsive web applications. Strong proficiency in Reactjs, Redux, JavaScript, HTML, CSS, Material UI, Styled Components, Bootstrap, Git and Github. Passionate about delivering high-quality code and creating user-friendly interfaces.',
   resumeLink:
     'https://drive.google.com/file/d/1ezrClAA527KeZigLaL4j6Joa-3bxottU/view?usp=drive_link',
 };
