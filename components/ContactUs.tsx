@@ -89,7 +89,7 @@ export const ContactUs = () => {
           <Container>
             <Row className="justify-content-center">
               <Col lg="12">
-                <Card className="bg-gradient-secondary shadow">
+                <Card className="bg-gradient-secondar shadow">
                   <CardBody className="p-lg-5">
                     <h4 className="mb-1">Want to work with me?</h4>
                     <p className="mt-0">

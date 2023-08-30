@@ -92,40 +92,10 @@ export const skillsSection: SkillsSectionType = {
         },
       ],
     },
-    {
-      title: 'Cloud Infra-Architecture',
-      lottieAnimationFile: '/lottie/skills/cloudinfra.json', // Path of Lottie Animation JSON File
-      skills: [
-        emoji(
-          '⚡ Experience of working on multiple cloud platforms like AWS, Microsoft Azure, Heroku , Github etc.'
-        ),
-        emoji(
-          '⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases'
-        ),
-      ],
-      softwareSkills: [
-        // ? Check README To get icon details
-        {
-          skillName: 'AWS',
-          iconifyTag: 'logos:aws',
-        },
-        {
-          skillName: 'Azure',
-          iconifyTag: 'logos:microsoft-azure',
-        },
-        {
-          skillName: 'Heroku',
-          iconifyTag: 'logos:heroku-icon',
-        },
-        {
-          skillName: 'Github',
-          iconifyTag: 'akar-icons:github-fill',
-        },
-      ],
-    },
+   
     {
       title: 'Bankend Development',
-      lottieAnimationFile: '/lottie/skills/ethereum.json', // Path of Lottie Animation JSON File
+      lottieAnimationFile: '/lottie/skills/backend.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(
           '⚡ Experience in developing and building effective application using Node JS and Express JS.'
@@ -155,6 +125,37 @@ export const skillsSection: SkillsSectionType = {
         {
           skillName: 'Github',
           iconifyTag: 'akar-icons:github-fill',
+        },
+      ],
+    },
+    {
+      title: 'Databases',
+      lottieAnimationFile: '/lottie/skills/database.json', // Path of Lottie Animation JSON File
+      skills: [
+        emoji(
+          '⚡ Experience of working on multiple languages & databases like SQL, MySQL, SQLite3 and MongoDB.'
+        ),
+        emoji(
+          '⚡ Experience of Creating and building full-stack application using SQL.'
+        ),
+      ],
+      softwareSkills: [
+        // ? Check README To get icon details
+        {
+          skillName: 'SQL',
+          iconifyTag: 'ph:file-sql',
+        },
+        {
+          skillName: 'MySQL',
+          iconifyTag: 'logos:mysql',
+        },
+        {
+          skillName: 'MongoDB',
+          iconifyTag: 'logos:mongodb',
+        },
+        {
+          skillName: 'SQLite3',
+          iconifyTag: 'logos:sqlite',
         },
       ],
     },
@@ -246,7 +247,7 @@ export const seoData: SEODataType = {
   description: 'A passionate Front-End Developer.',
   author: 'Udhav Jadhav',
   image: 'https://avatars.githubusercontent.com/u/72942660?v=4',
-  url: 'https://developer-portfolio-mtc.vercel.app',
+  url: 'https://udhavjadhav.vercel.app',
   keywords: [
     'Udhav',
     'Udhav Jadhav',
