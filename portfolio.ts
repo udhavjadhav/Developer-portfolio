@@ -32,7 +32,7 @@ export const socialLinks: SocialLinksType = {
   github: 'https://github.com/udhavjadhav',
   instagram: 'https://www.instagram.com/theudhavjadhav',
   facebook: 'https://www.facebook.com/profile.php?id=100009816224032',
-  twitter: 'https://twitter.com/the_official_uj',
+  twitter: 'https://twitter.com/theudhavjadhav',
 };
 
 export const skillsSection: SkillsSectionType = {
