@@ -15,7 +15,6 @@ export const greetings: GreetingsType = {
   name: 'Udhav Jadhav',
   title: "Hi, I'm Udhav Jadhav",
   description:
-    // "I'm passionate Frontend developer having an experience of web applications with JavaScript, React.js, Next.js, Redux and Web development like HTML5 and CSS3.Frameworks and Libraries like Bootstrap,Material UI, Semantic UI & Styled Components etc.",
     'Highly skilled and experienced React is developer with expertise in building dynamic and responsive web applications. Strong proficiency in Reactjs, Redux, JavaScript, HTML, CSS, Material UI, Styled Components, Bootstrap, Git and Github. Passionate about delivering high-quality code and creating user-friendly interfaces.',
   resumeLink:
     'https://drive.google.com/file/d/1ezrClAA527KeZigLaL4j6Joa-3bxottU/view?usp=drive_link',
@@ -140,7 +139,6 @@ export const skillsSection: SkillsSectionType = {
         ),
       ],
       softwareSkills: [
-        // ? Check README To get icon details
         {
           skillName: 'SQL',
           iconifyTag: 'ph:file-sql',
@@ -207,7 +205,7 @@ export const experience: ExperienceType[] = [
     role: 'Software Developer',
     company: 'Senwell Solutions',
     companyLogo: 'https://senwellsys.com/logo.png',
-    date: 'Jul 2022 – Jul 2023',
+    date: 'Jan 2023 – Jul 2023',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using React JS, Next JS, Redux, Material UI, Chart.js and some other libraries.',
   }
   ];
