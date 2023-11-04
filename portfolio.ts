@@ -205,7 +205,7 @@ export const experience: ExperienceType[] = [
     role: 'Software Developer',
     company: 'Senwell Solutions',
     companyLogo: 'https://senwellsys.com/logo.png',
-    date: 'Jan 2023 – Jul 2023',
+   // date: 'Oct 2022 – Current',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using React JS, Next JS, Redux, Material UI, Chart.js and some other libraries.',
   }
   ];
