@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     'Highly skilled and experienced React is developer with expertise in building dynamic and responsive web applications. Strong proficiency in Reactjs, Redux, JavaScript, HTML, CSS, Material UI, Styled Components, Bootstrap, Git and Github. Passionate about delivering high-quality code and creating user-friendly interfaces.',
   resumeLink:
-    'https://drive.google.com/file/d/1ezrClAA527KeZigLaL4j6Joa-3bxottU/view?usp=drive_link',
+    'https://drive.google.com/file/d/1BeEJR-STWxmIMqwVPfE5xSzCiU2_3ONi/view?usp=drive_link',
 };
 
 export const openSource = {
@@ -232,7 +232,7 @@ export const experience: ExperienceType[] = [
     },
     {
       name: 'Shopping Cart (AJIO)',
-      desc: 'Get hands-on experience in technical skills with Technota',
+      desc: 'Shopping Cart (AJIO), A E-commerce web application.',
       github: 'https://github.com/udhavjadhav/Shopping-Cart',
     },
     {
@@ -249,7 +249,7 @@ export const showContactUs: boolean = true;
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
   title: 'Udhav Jadhav',
-  description: 'A passionate Front-End Developer.',
+  description: 'A passionate Full Stack Developer.',
   author: 'Udhav Jadhav',
   image: 'https://avatars.githubusercontent.com/u/72942660?v=4',
   url: 'https://udhavjadhav.vercel.app',
