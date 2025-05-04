@@ -205,7 +205,7 @@ export const experience: ExperienceType[] = [
     role: 'Software Developer',
     company: 'Senwell Solutions',
     companyLogo: 'https://senwellsys.com/logo.png',
-    date: 'JUL 2022 – JUL 2023',
+    date: 'JAN 2023 – JUL 2023',
     desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using React JS, Next JS, Redux, Material UI, Chart.js and some other libraries.',
   },
     {
@@ -222,7 +222,7 @@ export const experience: ExperienceType[] = [
       name: 'Developer Portfolio',
       desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
       github: 'https://github.com/udhavjadhav/developer-portfolio',
-      link: 'https://developer-portfolio-1hanzla100.vercel.app/',
+      link: 'https://udhavjadhav.vercel.app',
     },
     {
       name: 'Breathing App',
