@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     'Highly skilled and experienced React is developer with expertise in building dynamic and responsive web applications. Strong proficiency in Reactjs, Redux, JavaScript, HTML, CSS, Material UI, Styled Components, Bootstrap, Git and Github. Passionate about delivering high-quality code and creating user-friendly interfaces.',
   resumeLink:
-    'https://drive.google.com/file/d/1nXUywwbNMRooCjCnldMjEZw0NwnHUBRC/view?usp=drive_link',
+    'https://drive.google.com/file/d/1Cw6ZaxvkD2WoxQRrOhfNtJi1Xslr4qAE/view?usp=drivesdk',
 };
 
 export const openSource = {
