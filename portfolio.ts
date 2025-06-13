@@ -220,18 +220,18 @@ export const experience: ExperienceType[] = [
       name: 'Breathing App',
       desc: 'Breathing App, It is used to listen all type of meditation songs like relaxation, mental health, nature sounds,sky walk etc.',
       github: 'https://github.com/udhavjadhav/Breathing-app',
-      link: 'https://breathlly.netlify.app',
+      // link: 'https://breathlly.netlify.app',
     },
     {
       name: 'Shopping Cart (AJIO)',
       desc: 'Shopping Cart (AJIO), A E-commerce web application.',
-      github: 'https://github.com/udhavjadhav/Shopping-Cart',
+      // github: 'https://github.com/udhavjadhav/Shopping-Cart',
     },
     {
       name: 'Shopify',
       desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
       github: 'https://github.com/udhavjadhav/E-Commerce',
-      link: 'https://shopifffy.netlify.app',
+      // link: 'https://shopifffy.netlify.app',
     },
 ];
 
