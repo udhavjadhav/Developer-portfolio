@@ -228,7 +228,7 @@ export const projects: ProjectType[] = [
   {
     name: 'Shopping Cart (AJIO)',
     desc: 'An e-commerce web application inspired by AJIO, featuring a shopping cart functionality. Users can browse products, add items to their cart, and proceed to checkout, simulating a real-world online shopping experience.',
-    // github: 'https://github.com/udhavjadhav/Shopping-Cart',
+    github: 'https://github.com/udhavjadhav/Shopping-Cart',
   },
   {
     name: 'Shopify',
