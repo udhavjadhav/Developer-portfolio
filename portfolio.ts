@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Udhav Jadhav',
   title: "Hi, I'm Udhav Jadhav",
   description:
-    'Highly skilled and experienced React is developer with expertise in building dynamic and responsive web applications. Strong proficiency in Reactjs, Redux, JavaScript, HTML, CSS, Material UI, Styled Components, Bootstrap, Git and Github. Passionate about delivering high-quality code and creating user-friendly interfaces.',
+    'Highly skilled and experienced Full Stack Developer with a strong background in building dynamic and responsive web applications. Proficient in both frontend and backend technologies, including React.js, React Native, JavaScript, HTML, CSS, Material-UI, Bootstrap, Node.js, MongoDB, MySQL, Git, and GitHub. Passionate about delivering high-quality code and creating user-friendly interfaces across the entire development stack.',
   resumeLink:
     'https://drive.google.com/file/d/1Cw6ZaxvkD2WoxQRrOhfNtJi1Xslr4qAE/view?usp=drivesdk',
 };
@@ -109,10 +109,10 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Node JS',
           iconifyTag: 'logos:nodejs',
         },
-        {
-          skillName: 'Nest JS',
-          iconifyTag: 'logos:nestjs',
-        },
+        // {
+        //   skillName: 'Nest JS',
+        //   iconifyTag: 'logos:nestjs',
+        // },
         {
           skillName: 'NPM',
           iconifyTag: 'logos:npm',
@@ -139,10 +139,10 @@ export const skillsSection: SkillsSectionType = {
         ),
       ],
       softwareSkills: [
-        {
-          skillName: 'SQL',
-          iconifyTag: 'ph:file-sql',
-        },
+        // {
+        //   skillName: 'SQL',
+        //   iconifyTag: 'ph:file-sql',
+        // },
         {
           skillName: 'MySQL',
           iconifyTag: 'logos:mysql',
@@ -151,10 +151,10 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'MongoDB',
           iconifyTag: 'logos:mongodb',
         },
-        {
-          skillName: 'SQLite3',
-          iconifyTag: 'logos:sqlite',
-        },
+        // {
+        //   skillName: 'SQLite3',
+        //   iconifyTag: 'logos:sqlite',
+        // },
       ],
     },
   ],
@@ -206,14 +206,14 @@ export const experience: ExperienceType[] = [
     company: 'Senwell Solutions',
     companyLogo: 'https://senwellsys.com/logo.png',
     date: 'JAN 2023 – JUL 2023',
-    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using React JS, Next JS, Redux, Material UI, Chart.js and some other libraries.',
+    desc: 'I worked as a Frontend Web Developer, designing web-based admin dashboards for multiple applications using React.js, Next.js, Redux, Material-UI, Chart.js, and various other libraries',
   },
     {
-    role: 'Software Developer',
+    role: 'Full Stack Developer',
     company: 'Frugal Innovations Pvt. Ltd',
     companyLogo: 'FIPL',
     date: 'DEC 2023 – Current',
-    desc: 'I worked as full stack developer to design web based transport projects using Angular JS, React JS, HTML, CSS, Material UI, Node JS, Mongodb, Mysql and some other libraries.',
+    desc: 'I am currently working as a Full Stack Developer, designing web-based transport projects using AngularJS, ReactJS, HTML, CSS, Material UI, Node.js, MongoDB, MySQL, and various other libraries.',
   }
   ];
 
@@ -236,7 +236,7 @@ export const experience: ExperienceType[] = [
       github: 'https://github.com/udhavjadhav/Shopping-Cart',
     },
     {
-      name: 'Ecommerce Site',
+      name: 'Shopify',
       desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
       github: 'https://github.com/udhavjadhav/E-Commerce',
       link: 'https://shopifffy.netlify.app',
