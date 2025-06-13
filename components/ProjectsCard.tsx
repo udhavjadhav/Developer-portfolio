@@ -25,6 +25,7 @@ const ProjectsCard = ({ name, desc, github, link }: ProjectType) => {
                     <span className="btn-inner--icon">
                       <i className="fa fa-github" />
                     </span>
+                     <span className="nav-link-inner--text ml-1">Github</span>
                   </Button>
                 ) : null}
                 {link ? (
