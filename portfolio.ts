@@ -43,10 +43,10 @@ export const skillsSection: SkillsSectionType = {
       lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(
-          '⚡ Building responsive Single-Page-Apps (SPA) & Progressive Web Applications (PWA) in React.js'
+          '⚡ Building responsive Single Page Applications (SPAs) and Progressive Web Applications (PWAs) using React.js'
         ),
-        emoji('⚡ Building responsive static websites using Next.js'),
-        emoji('⚡ Building user-friendly web applications using React JS'),
+        emoji('⚡ Creating user-friendly web applications using React.js'),
+        emoji('⚡ Developing mobile applications with React Native'),
       ],
       softwareSkills: [
         {
@@ -66,20 +66,12 @@ export const skillsSection: SkillsSectionType = {
           iconifyTag: 'vscode-icons:file-type-reactjs',
         },
         {
-          skillName: 'Nextjs',
-          iconifyTag: 'vscode-icons:file-type-light-next',
-        },
-        {
           skillName: 'Bootstrap',
           iconifyTag: 'logos:bootstrap',
         },
         {
           skillName: 'MUI',
           iconifyTag: 'logos:material-ui',
-        },
-        {
-          skillName: 'Redux',
-          iconifyTag: 'logos:redux',
         },
         {
           skillName: 'NPM',
@@ -97,11 +89,11 @@ export const skillsSection: SkillsSectionType = {
       lottieAnimationFile: '/lottie/skills/backend.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(
-          '⚡ Experience in developing and building effective application using Node JS and Express JS.'
+          '⚡ Experienced in developing and building effective applications using Node.js and Express.js.'
         ),
-        emoji("⚡ Creating and integrating RESTful API's"),
+        emoji("⚡ Skilled in creating and integrating RESTful APIs."),
         emoji(
-          '⚡ Experience of using version control and version control system like git and github'
+          '⚡ Experienced in utilizing version control systems such as Git and GitHub to manage codebase changes, collaborate with teams, and maintain project history.'
         ),
       ],
       softwareSkills: [
@@ -132,10 +124,10 @@ export const skillsSection: SkillsSectionType = {
       lottieAnimationFile: '/lottie/skills/database.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(
-          '⚡ Experience of working on multiple languages & databases like SQL, MySQL, SQLite3 and MongoDB.'
+          '⚡ Proficient in working with relational and NoSQL databases, including MySQL and MongoDB.'
         ),
         emoji(
-          '⚡ Experience of Creating and building full-stack application using SQL.'
+          '⚡ Experienced in developing and deploying full-stack applications utilizing MySQL and MongoDB for data storage.'
         ),
       ],
       softwareSkills: [
